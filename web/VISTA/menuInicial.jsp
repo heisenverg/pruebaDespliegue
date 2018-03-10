@@ -10,7 +10,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link"  href="vistaMenuInicial.jsp">Inicio</a>
+                        <a class="nav-link"  href="vistaMenuInicial.jsp">Otro inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"  href="vistaAltaVotante.jsp">Alta</a>
